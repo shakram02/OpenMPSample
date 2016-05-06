@@ -22,3 +22,8 @@ int main(array<System::String ^> ^args)
 	system("pause");	// Halt the program
 	return 0;
 }
+
+// Links:
+// http://supercomputingblog.com/openmp/getting-started-with-openmp-on-visual-studio/
+// http://supercomputingblog.com/openmp/openmp-tutorial-the-basics/
+
